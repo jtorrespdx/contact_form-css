@@ -1,0 +1,15 @@
+@font-face{
+  font-family: "arcon";
+
+  src: url('fonts/arcon/Arcon-Regular.otf');
+  src: url('fonts/arcon/Arcon-Regular.otf') format('truetype');
+}
+
+body {
+  font: 21px sans-serif;
+
+  padding: 2em;
+  margin: 0;
+
+  background: #222;
+}
